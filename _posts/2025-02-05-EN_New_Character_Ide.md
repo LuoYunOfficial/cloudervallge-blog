@@ -1,5 +1,5 @@
 ---
-title: "ClouderVallge:Reflection in GraveSea —— Ide"
+title: "ClouderVallge: Reflection in GraveSea —— Ide"
 date: 2025-02-05
 ---
 Your hometown was destroyed in an accident, and as its planet was dying, you boarded the Interstellar Train.
