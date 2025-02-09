@@ -2,3 +2,5 @@ theme: minima
 title: ClouderVallge Blogs
 author: kasonlos
 timezone: Asia/Shanghai
+
+permalink: /:categories/:title/
