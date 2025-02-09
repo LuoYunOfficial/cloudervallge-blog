@@ -1,0 +1,8 @@
+default:
+  text_skin: default
+  highlight_theme: default
+  lang: zh
+  paths:
+    root: /
+    home: /
+    archive:  /archive/
