@@ -3,4 +3,4 @@ title: ClouderVallge Blogs
 author: kasonlos
 timezone: Asia/Shanghai
 
-permalink: /:categories/:title/
+permalink: /:categories/:tags/:title/
