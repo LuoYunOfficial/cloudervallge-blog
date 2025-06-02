@@ -1,7 +1,7 @@
 ---
 title: "第一章·第一幕 枷锁、交易与计划"
 date: 2025-05-27 12:10:00 +0800
-categories: [Announcement]
+categories: [Story]
 tags: CN
 ---
 （次日上午八点 云森市立科学研究中心）<br/>
