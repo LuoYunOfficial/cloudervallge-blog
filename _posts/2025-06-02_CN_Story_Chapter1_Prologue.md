@@ -1,7 +1,7 @@
 ---
 title: "第一章·序幕 暗处波涛汹涌"
 date: 2025-05-27 12:10:00 +0800
-categories: [Announcement]
+categories: [Story]
 tags: CN
 ---
 时值云森市50周年庆典筹备期间。<br/>
