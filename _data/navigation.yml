@@ -1,4 +1,4 @@
-  - titles:
+  - tags:
         # @start locale config
         en      : &EN       Categories
         en-GB   : *EN
