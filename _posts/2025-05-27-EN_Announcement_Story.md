@@ -10,6 +10,9 @@ Part of the new main storyline, "Chapter 1: Light Chain and Truth" is about to b
 ▋Available Content:<br/>
 Prologue - Undercurrents surge in the darkness<br/>
 Act 1 - Shackles, Deals, and Plans<br/>
+Act 2 - Political Scheming, Flattery and Deception<br/>
+Act 3 - Negotiations, Counterattacks and Chaos<br/>
+Final Act - Trial, Burial and Rebirth<br/>
 <br/>
 ▋How to Watch:<br/>
 ①Use the Bing or Google search engine to search for "ClouderVallge", go to the official website, select "Blog", and choose the relevant content to watch. <br/>(https://luoyunofficial.github.io/cloudervallge-blog/)<br/>
